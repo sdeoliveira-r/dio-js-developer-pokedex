@@ -1,2 +1,2 @@
-Pokedex - Dio JavaScript - Pokedex
+Dio JavaScript Developer - Pokedex
 ==================================
